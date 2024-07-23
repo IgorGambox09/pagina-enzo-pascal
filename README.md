@@ -41,3 +41,8 @@ Passo 5: Aula Como inserir e centralizar imagens em uma página HTML
 Confira o arquivo enzo-pascal.html com imagem (img) Confira o arquivo enzo-pascal.css com classe center para centralizar imagem
 
 Aula Como inserir e centralizar imagens em uma página HTML
+
+Passo 6: Aula Aquarela de Cores no CSS: Revelando o Sistema RGB e Hexadecimal
+Confira o arquivo enzo-pascal.html lista não ordenada (ul) Confira o arquivo enzo-pascal.css com classe parte2 para alterar cor de fundo (background-color)
+
+Aula Aquarela de Cores no CSS: Revelando o Sistema RGB e Hexadecimal
