@@ -24,7 +24,16 @@
     font-size: 20px;
     letter-spacing: 1.2pt;
     color: #76778c;
-    line-height: 32px;
     font-family: sans-serif;
+    line-height: 32px;
     text-align: center;
+}
+
+.btn {
+    background-color: #00a78e;
+    border-radius: 5px;
+    padding: 20px 40px;
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
 }
