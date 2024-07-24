@@ -56,3 +56,8 @@ Passo 8: Aula Desvendando o CSS: Tag Semântica, Pseudo-Classe e Caracteres
 Confira o arquivo enzo-pascal.html com tag footer Confira o arquivo enzo-pascal.css com classe rodape
 
 Aula Desvendando o CSS: Tag Semântica, Pseudo-Classe e Caracteres Especiais
+
+Passo 9: Aula Letras com Estilo: Dominando as Fontes no Desenvolvimento Web
+Confira o arquivo enzo-pascal.html com import de fonte da web Confira o arquivo enzo-pascal.css com font family Montserrat
+
+Aula Letras com Estilo: Dominando as Fontes no Desenvolvimento Web
